@@ -1,0 +1,8 @@
+RENCANA PROJECT
+
+- LARAVEL
+*bkin website Blog
+- CI
+*bikin web absen
+- AI
+*bikin robot
