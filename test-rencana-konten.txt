@@ -9,5 +9,6 @@ RENCANA PROJECT
 
 - C++ Koding
 
-#fitur_1
-contoh fitur 1
+#fitur 2 
+editing fitur 2
+
