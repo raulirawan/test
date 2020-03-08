@@ -6,3 +6,5 @@ RENCANA PROJECT
 *bikin web absen
 - AI
 *bikin robot
+
+- C++ Koding
